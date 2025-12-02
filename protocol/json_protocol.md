@@ -1,0 +1,1 @@
+# définition actions JSON (send, join, leave…)
